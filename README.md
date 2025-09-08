@@ -53,6 +53,6 @@ Prerequisites
 
 Node.js >= 18
 
-MongoDB Atlas account (or local MongoDB instance)
+MongoDB Atlas account 
 
 API key from stock market data provider (e.g., Alpha Vantage, Yahoo Finance API, or similar)
